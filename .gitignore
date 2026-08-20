@@ -4,15 +4,6 @@ testing_data/
 training/
 test/
 
-# Trained model artifacts
-*.h5
-*.keras
-
-# Draft / work-in-progress scripts
-mo.py
-mod.py
-mode.py
-
 # Python
 __pycache__/
 *.py[cod]
@@ -20,8 +11,3 @@ __pycache__/
 .venv/
 venv/
 env/
-
-# OS / editor
-.DS_Store
-.vscode/
-.idea/
