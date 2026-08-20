@@ -1,0 +1,27 @@
+# Datasets (too large for git, download/generate locally)
+training_data/
+testing_data/
+training/
+test/
+
+# Trained model artifacts
+*.h5
+*.keras
+
+# Draft / work-in-progress scripts
+mo.py
+mod.py
+mode.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
