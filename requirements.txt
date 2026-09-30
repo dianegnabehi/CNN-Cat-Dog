@@ -1,0 +1,4 @@
+# Dépendances pour l'entraînement et l'utilisation du modèle (model.py)
+tensorflow>=2.15
+numpy>=1.24
+pillow>=10.0
