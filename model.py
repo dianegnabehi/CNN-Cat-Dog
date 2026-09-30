@@ -31,8 +31,8 @@ from tensorflow.keras.utils import to_categorical
 # ──────────────────────────────────────────────────────────────
 # Parameters and Paths
 # ──────────────────────────────────────────────────────────────
-TRAIN_DIR = '/sgoinfre/goinfre/Perso/dgnabehi/rush/module3/ex00/training_data'
-TEST_DIR = '/sgoinfre/goinfre/Perso/dgnabehi/rush/module3/ex00/testing_data'
+TRAIN_DIR = '/.../training_data'
+TEST_DIR = '/.../testing_data'
 
 IMG_SIZE = 150
 BATCH_SIZE = 32
